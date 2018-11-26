@@ -1,0 +1,8 @@
+.greytextbox {
+    background-color: grey;
+    list-style: none;
+    color: black;
+    flex-direction: row;
+    font-size: 12px;
+    height: 100px;
+}

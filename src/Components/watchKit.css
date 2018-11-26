@@ -1,0 +1,18 @@
+.watchKit {
+    background-color: white;
+    list-style: none;
+    color: black;
+    flex-direction: row;
+    font-size: 12px;
+}
+
+#header {
+    color: blue;
+    font-size: 16px;
+}
+
+.commentbar {
+    color: white;
+    background-color: orange;
+    height: 30px;
+}

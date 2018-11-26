@@ -1,0 +1,8 @@
+.menu {
+    background-color: skyblue;
+    list-style: none;
+    color: white;
+    display: flex;
+    height: 90px;
+    word-spacing: 20px;
+}
